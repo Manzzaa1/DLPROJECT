@@ -11,9 +11,9 @@ Dataset
 The dataset used for training and testing the model is the Cell Images dataset, which consists of two main categories: infected and uninfected cells. The dataset is divided into training and testing sets.
 Data Preprocessing
 
-    The cell images are loaded using OpenCV and PIL libraries.
-    Images are converted to grayscale and resized to 30x30 pixels.
-    Data augmentation techniques such as rotation, zoom, and horizontal flip can be applied for better model generalization.
+The cell images are loaded using OpenCV and PIL libraries.
+Images are converted to grayscale and resized to 30x30 pixels.
+Data augmentation techniques such as rotation, zoom, and horizontal flip can be applied for better model generalization.
 
 Model Architecture
 
